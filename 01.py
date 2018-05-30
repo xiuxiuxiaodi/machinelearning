@@ -15,3 +15,4 @@ class Counter:
 a = Counter()
 a.counter=3
 print (a.counter)
+print("word")

@@ -8,6 +8,7 @@ import collections
 import nltk
 import numpy as np
 from keras.layers import Conv1D
+from keras.layers import Conv2D
 
 ## EDA 
 maxlen = 0
