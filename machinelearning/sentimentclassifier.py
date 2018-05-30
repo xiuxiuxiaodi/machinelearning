@@ -10,6 +10,7 @@ import numpy as np
 from keras.layers import Conv1D
 from keras.layers import Conv2D
 from keras.layers import Conv3D
+from keras.layers import Conv2DTranspose
 
 ## EDA 
 maxlen = 0
